@@ -1,1 +1,3 @@
-# Image_Galary-Using-HTML-and-CSS
+# Image_Galary
+
+Created Using HTML and CSS
